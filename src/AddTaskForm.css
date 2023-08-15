@@ -1,0 +1,11 @@
+.AddTaskForm {
+  margin: 1em 0em;
+}
+
+.AddTaskForm input {
+  font-size: 1.4em;
+}
+
+.AddTaskForm button {
+  margin-left: 0.6em;
+}
